@@ -20,6 +20,22 @@ Following these videos, we will be hosting a live Q&A session to further explore
       - **Opportunities**: No matter what part of the project lifecycle you are in, you can start applying agile methodologies.
       - **What to prioritize**: Suggestions on next steps to evolve your product or program.
       - **Am I Doing it "right"**: Signs to gauge if you are on the right track. For bad signs, I will give some suggestions to address the causes.
+    - Presentation ([pdf](https://github.com/18F/derisking-workshop/raw/main/presentations/Agile%20Acquisitions.pdf), [html accessible](https://raw.githubusercontent.com/18F/derisking-workshop/main/presentations/Agile%20Acquisitions.mhtml))
 2. Product Ownership
    - [Video Link](https://gsa.zoomgov.com/rec/share/nmsNEsFCGKXN7zDK-gi3b37pNDLDoHKP3w2QusTUf7_h-NMrrJ4Vxg-ND6-SiFLX.pfaFoABYat_m6Y7m?startTime=1660753906000%20Passcode:%201*rbc!%H) - Runtime: 34 minutes
+
+## Resources
+Here are are some other recommended resources for this training:
+- [18F Derisking Guide](https://derisking-guide.18f.gov/)
+- [18F Product Guide](https://product-guide.18f.gov/)
+- [18F Methods](https://methods.18f.gov/)
+
+## Accessibility
+- The videos have a live transcript that can be viewed on the right side.  The video may include some incorrect closed captioning.  Please use the **CC** button in the video to switch to Audio Transcript. 
+- The presentations are available in an accessible HTML format that includes the presenter notes.  To view this, please go to the link for each presentation, then right click and save the page to your computer.  You can then open the downloaded file on your computer. 
+
+## Feedback
+18F is always looking to improve our trainings and we would love any feedback you have.  For feedback, please submit this short form.  For any questions on the training program, please contact the Office of Childcare (OCC) at occ@acf.hhs.gov.  
+
+TODO: Add a form link
 
