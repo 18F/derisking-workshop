@@ -23,11 +23,11 @@ Following these videos, we will be hosting a live Q&A session to further explore
       - **What to prioritize**: Suggestions on next steps to evolve your product or program.
       - **Am I Doing it "right"**: Signs to gauge if you are on the right track. For bad signs, I will give some suggestions to address the causes.
     - Presentation ([pdf](https://github.com/18F/derisking-workshop/raw/main/presentations/Agile%20Acquisitions.pdf){:target="_blank" rel="noopener"} , [html accessible](https://raw.githubusercontent.com/18F/derisking-workshop/main/presentations/Agile%20Acquisitions.mhtml){:target="_blank" rel="noopener"} )
-2. Product Ownership
- ![video icon](/assets/18f-video-icon.svg)[Video Link](https://gsa.zoomgov.com/rec/share/nmsNEsFCGKXN7zDK-gi3b37pNDLDoHKP3w2QusTUf7_h-NMrrJ4Vxg-ND6-SiFLX.pfaFoABYat_m6Y7m?startTime=1660753906000%20Passcode:%201*rbc!%H) - Runtime: 34 minutes
+### 2. Product Ownership  
+ ![video icon](/assets/18f-video-icon.svg) [Video Link](https://gsa.zoomgov.com/rec/share/nmsNEsFCGKXN7zDK-gi3b37pNDLDoHKP3w2QusTUf7_h-NMrrJ4Vxg-ND6-SiFLX.pfaFoABYat_m6Y7m?startTime=1660753906000%20Passcode:%201*rbc!%H) - Runtime: 34 minutes
 
-5. Agile Contracting
-![video icon](/assets/18f-video-icon.svg)[Video Link](https://gsa.zoomgov.com/rec/play/GI54NTrqTV_Myfs0_9XJzrcHIMyqlgTVq5aLs83BCJn1WJdf2trBZ0AIQVFI_wJ5zN9m7NwBkbMy6Dl7.lVbx91etRqNw11Wm?startTime=1660757878000) - Runtime: 34 minutes
+### 5. Agile Contracting
+![video icon](/assets/18f-video-icon.svg) [Video Link](https://gsa.zoomgov.com/rec/play/GI54NTrqTV_Myfs0_9XJzrcHIMyqlgTVq5aLs83BCJn1WJdf2trBZ0AIQVFI_wJ5zN9m7NwBkbMy6Dl7.lVbx91etRqNw11Wm?startTime=1660757878000) - Runtime: 35 minutes
 
 ## Resources
 Here are are some other recommended resources for this training:
