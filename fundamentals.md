@@ -26,9 +26,9 @@ Following these videos, we will be hosting a live Q&A session to further explore
 
 ## Resources
 Here are are some other recommended resources for this training:
-- [18F Derisking Guide](https://derisking-guide.18f.gov/){:target="_blank" rel="noopener"}
-- [18F Product Guide](https://product-guide.18f.gov/){:target="_blank" rel="noopener"}
-- [18F Methods](https://methods.18f.gov/){:target="_blank" rel="noopener"}
+- [18F Derisking Guide](https://derisking-guide.18f.gov/){:target="_blank" rel="noopener"} 
+- [18F Product Guide](https://product-guide.18f.gov/){:target="_blank" rel="noopener"} 
+- [18F Methods](https://methods.18f.gov/){:target="_blank" rel="noopener"} 
 
 ## Accessibility
 - The videos have a live transcript that can be viewed on the right side.  The video may include some incorrect closed captioning.  Please use the **CC** button in the video to switch to Audio Transcript. 
