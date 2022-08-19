@@ -15,25 +15,58 @@ At the end of this training, you will:
 This training is a series of 5 videos. We **highly recommend that you watch all 5 videos in order** as they all build on each other and the topics all relate to one another.   
 
 Following these videos, we will be hosting a live Q&A session to further explore these topics and how they apply to your work. 
-### [1. <ins>Introduction and Agile Management (40 mins)</ins> ![video icon](/assets/18f-video-icon.svg)](https://gsa.zoomgov.com/rec/share/xIpIHh-zKtIOXPLYgknxK-BDUVuPKbufppkz9bc6T9ZWJvyRwR5t5rQVrXwroLoz.KnL-7zBgUgGhMc7F?startTime=1660748950000)  
+
+<!--- Intro to agile management description -->
+### [1. <ins>Introduction and agile management (40 mins)</ins> ![video icon](/assets/18f-video-icon.svg)](https://gsa.zoomgov.com/rec/share/xIpIHh-zKtIOXPLYgknxK-BDUVuPKbufppkz9bc6T9ZWJvyRwR5t5rQVrXwroLoz.KnL-7zBgUgGhMc7F?startTime=1660748950000)  
 ![slides icon](/assets/presentation-icon.svg) Slides[(PDF)](https://github.com/18F/derisking-workshop/raw/main/presentations/Agile%20Acquisitions.pdf) [(Accessble HTML)](https://raw.githubusercontent.com/18F/derisking-workshop/main/presentations/Agile%20Acquisitions.mhtml)
 
 **This video covers:**  
 * Bad news/ Good news
-**: Managing software projects is hard, but leading a team using agile methods can help you succeed.
-
+  **: Managing software projects is hard, but leading a team using agile methods can help you succeed.
 * Opportunities**: No matter what part of the project lifecycle you are in, you can start applying agile methodologies.
-
 * What to prioritize**: Suggestions on next steps to evolve your product or program.
-
 * Am I Doing it "right"
-**: Signs to gauge if you are on the right track. For bad signs, I will give some suggestions to address the causes.
+  **: Signs to gauge if you are on the right track. For bad signs, I will give some suggestions to address the causes.
 
-### 2. Product Ownership  
- ![video icon](/assets/18f-video-icon.svg) [Video Link](https://gsa.zoomgov.com/rec/share/nmsNEsFCGKXN7zDK-gi3b37pNDLDoHKP3w2QusTUf7_h-NMrrJ4Vxg-ND6-SiFLX.pfaFoABYat_m6Y7m?startTime=1660753906000%20Passcode:%201*rbc!%H) - Runtime: 34 minutes
 
-### 5. Agile Contracting
-![video icon](/assets/18f-video-icon.svg) [Video Link](https://gsa.zoomgov.com/rec/play/GI54NTrqTV_Myfs0_9XJzrcHIMyqlgTVq5aLs83BCJn1WJdf2trBZ0AIQVFI_wJ5zN9m7NwBkbMy6Dl7.lVbx91etRqNw11Wm?startTime=1660757878000) - Runtime: 35 minutes
+<!--- Product ownership description -->
+### [2. <ins>Product ownership (35 mins)</ins> ![video icon](/assets/18f-video-icon.svg)](https://gsa.zoomgov.com/rec/share/nmsNEsFCGKXN7zDK-gi3b37pNDLDoHKP3w2QusTUf7_h-NMrrJ4Vxg-ND6-SiFLX.pfaFoABYat_m6Y7m?startTime=1660753906000%20Passcode:%201*rbc!%H)  
+![slides icon](/assets/presentation-icon.svg) Slides[(PDF)](https://github.com/18F/derisking-workshop/blob/main/presentations/Product%20Ownership.pdf) [(Accessible HTML)](#)
+
+DESCRIPTION
+
+
+<!--- User-centered design description -->
+### [3. <ins>User-centered design (!TBD!)</ins> ![video icon](/assets/18f-video-icon.svg)](#)  
+![slides icon](/assets/presentation-icon.svg) Slides[(PDF)](https://github.com/18F/derisking-workshop/blob/main/presentations/User-Centered%20Design%20-%20Training%20Slides.pdf) [(Accessible HTML)](#)
+
+In this short video you will learn what user-centered design is, what to consider and why it’s vital when building & buying software. 
+
+**Participants will leave understanding:**
+* What is user-centered design?
+* Why it is important in building and buying software
+* What does user-centered design look like in practice?
+* What to look for when creating or working with new teams?
+
+
+<!--- Software development practices description -->
+### [4. <ins>Software development practices  (!TBD!)</ins> ![video icon](/assets/18f-video-icon.svg)](#)  
+![slides icon](/assets/presentation-icon.svg) Slides[(PDF)](https://github.com/18F/derisking-workshop/blob/main/presentations/Software%20development%20practices.pdf) [(Accessible HTML)](#)
+ 
+**This video covers:**
+* A look at classic software development practices
+* Modern practices to enable product management and user-centered design
+* Continuous delivery
+* Continuous integration
+* Automation
+* Keys to adopting modern software development practices
+
+
+
+<!--- Agile contracting description -->
+### [5. <ins>Agile contracting (35 mins)</ins> ![video icon](/assets/18f-video-icon.svg)](https://gsa.zoomgov.com/rec/play/GI54NTrqTV_Myfs0_9XJzrcHIMyqlgTVq5aLs83BCJn1WJdf2trBZ0AIQVFI_wJ5zN9m7NwBkbMy6Dl7.lVbx91etRqNw11Wm?startTime=1660757878000)  
+![slides icon](/assets/presentation-icon.svg) Slides[(PDF)](#) [(Accessible HTML)](#)
+
 
 ## Resources
 Here are are some other recommended resources for this training:
