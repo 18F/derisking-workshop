@@ -15,14 +15,20 @@ At the end of this training, you will:
 This training is a series of 5 videos. We **highly recommend that you watch all 5 videos in order** as they all build on each other and the topics all relate to one another.   
 
 Following these videos, we will be hosting a live Q&A session to further explore these topics and how they apply to your work. 
-### 1. Introduction and Agile Management
-![video icon](/assets/18f-video-icon.svg) [Video Link](https://gsa.zoomgov.com/rec/share/xIpIHh-zKtIOXPLYgknxK-BDUVuPKbufppkz9bc6T9ZWJvyRwR5t5rQVrXwroLoz.KnL-7zBgUgGhMc7F?startTime=1660748950000) - Runtime: 39 minutes
-   - This video covers:
-      - **Bad news/ Good news**: Managing software projects is hard, but leading a team using agile methods can help you succeed.
-      - **Opportunities**: No matter what part of the project lifecycle you are in, you can start applying agile methodologies.
-      - **What to prioritize**: Suggestions on next steps to evolve your product or program.
-      - **Am I Doing it "right"**: Signs to gauge if you are on the right track. For bad signs, I will give some suggestions to address the causes.
-    - Presentation ([pdf](https://github.com/18F/derisking-workshop/raw/main/presentations/Agile%20Acquisitions.pdf){:target="_blank" rel="noopener"} , [html accessible](https://raw.githubusercontent.com/18F/derisking-workshop/main/presentations/Agile%20Acquisitions.mhtml){:target="_blank" rel="noopener"} )
+### [1. <ins>Introduction and Agile Management (40 mins)</ins> ![video icon](/assets/18f-video-icon.svg)](https://gsa.zoomgov.com/rec/share/xIpIHh-zKtIOXPLYgknxK-BDUVuPKbufppkz9bc6T9ZWJvyRwR5t5rQVrXwroLoz.KnL-7zBgUgGhMc7F?startTime=1660748950000)  
+![slides icon](/assets/presentation-icon.svg) Slides[(PDF)](https://github.com/18F/derisking-workshop/raw/main/presentations/Agile%20Acquisitions.pdf) [(Accessble HTML)](https://raw.githubusercontent.com/18F/derisking-workshop/main/presentations/Agile%20Acquisitions.mhtml)
+
+**This video covers:**  
+* Bad news/ Good news
+**: Managing software projects is hard, but leading a team using agile methods can help you succeed.
+
+* Opportunities**: No matter what part of the project lifecycle you are in, you can start applying agile methodologies.
+
+* What to prioritize**: Suggestions on next steps to evolve your product or program.
+
+* Am I Doing it "right"
+**: Signs to gauge if you are on the right track. For bad signs, I will give some suggestions to address the causes.
+
 ### 2. Product Ownership  
  ![video icon](/assets/18f-video-icon.svg) [Video Link](https://gsa.zoomgov.com/rec/share/nmsNEsFCGKXN7zDK-gi3b37pNDLDoHKP3w2QusTUf7_h-NMrrJ4Vxg-ND6-SiFLX.pfaFoABYat_m6Y7m?startTime=1660753906000%20Passcode:%201*rbc!%H) - Runtime: 34 minutes
 
