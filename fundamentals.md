@@ -18,7 +18,8 @@ Following these videos, we will be hosting a live Q&A session to further explore
 
 <!--- Intro to agile management description -->
 ### [1. <ins>Introduction and agile management (40 mins)</ins> ![video icon](/assets/18f-video-icon.svg)](https://gsa.zoomgov.com/rec/share/xIpIHh-zKtIOXPLYgknxK-BDUVuPKbufppkz9bc6T9ZWJvyRwR5t5rQVrXwroLoz.KnL-7zBgUgGhMc7F?startTime=1660748950000){:target="_blank" rel="noopener"} 
-![slides icon](/assets/presentation-icon.svg) Slides[(PDF)](https://github.com/18F/derisking-workshop/raw/main/presentations/Agile%20Acquisitions.pdf){:target="_blank" rel="noopener"} [(Accessble HTML)](https://raw.githubusercontent.com/18F/derisking-workshop/main/presentations/Agile%20Acquisitions.mhtml){:target="_blank" rel="noopener"}
+![slides icon](/assets/presentation-icon.svg) Slides[(PDF)](https://github.com/18F/derisking-workshop/raw/main/presentations/Agile%20Acquisitions.pdf){:target="_blank" rel="noopener"} 
+Accessble HTML <a href="https://raw.githubusercontent.com/18F/derisking-workshop/main/presentations/Agile%20Acquisitions.mhtml" download>Accessble HTML</a>
 
 **This video covers:**  
 * Bad news/ Good news
