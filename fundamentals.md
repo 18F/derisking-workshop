@@ -37,7 +37,7 @@ DESCRIPTION
 
 
 <!--- User-centered design description -->
-### [3. <ins>User-centered design (!TBD!)</ins> ![video icon](/assets/18f-video-icon.svg)](#)  
+### [3. <ins>User-centered design (32 mins)</ins> ![video icon](/assets/18f-video-icon.svg)](https://gsa.zoomgov.com/rec/play/GyndvuBUErbVEYJDSdJCkaLtRRSuzc0oN2rWhxBCF1XU4bTPwQB7Tb6-NKpunUD065KrphOZtxBmE3iO.QaLOfH9OlE966nXi?autoplay=true&startTime=1660849308000){:target="_blank" rel="noopener"}  
 ![slides icon](/assets/presentation-icon.svg) Slides[(PDF)](https://github.com/18F/derisking-workshop/blob/main/presentations/User-Centered%20Design%20-%20Training%20Slides.pdf){:target="_blank" rel="noopener"} [(Accessible HTML)](#)
 
 In this short video you will learn what user-centered design is, what to consider and why it’s vital when building & buying software. 
@@ -50,7 +50,7 @@ In this short video you will learn what user-centered design is, what to conside
 
 
 <!--- Software development practices description -->
-### [4. <ins>Software development practices  (!TBD!)</ins> ![video icon](/assets/18f-video-icon.svg)](#)  
+### [4. <ins>Software development practices  (42 mins)</ins> ![video icon](/assets/18f-video-icon.svg)](https://gsa.zoomgov.com/rec/share/nmsNEsFCGKXN7zDK-gi3b37pNDLDoHKP3w2QusTUf7_h-NMrrJ4Vxg-ND6-SiFLX.pfaFoABYat_m6Y7m?startTime=1660760959000%20Passcode:%201*rbc!%H){:target="_blank" rel="noopener"}  
 ![slides icon](/assets/presentation-icon.svg) Slides[(PDF)](https://github.com/18F/derisking-workshop/blob/main/presentations/Software%20development%20practices.pdf){:target="_blank" rel="noopener"} [(Accessible HTML)](#)
  
 **This video covers:**
