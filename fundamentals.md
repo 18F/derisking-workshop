@@ -3,13 +3,13 @@
 This training covers **Modern software development, procurement, and management fundamentals** through a set of training videos.
 
 At the end of this training, you will:
-- Understand modern software practices and how they can be applied to government software projects. This includes:
-  - Agile iterative development
-  - Product ownership
-  - User-centered design
-  - Modern software development practices
-- Understand how to approach procurement to attract good vendors and empower the product team to iterate
-- Ways to apply modern software practices to an existing project and ways to work with your vendor to make incremental improvements
+* Understand modern software practices and how they can be applied to government software projects. This includes:
+  * Agile iterative development
+  * Product ownership
+  * User-centered design
+  * Modern software development practices
+* Understand how to approach procurement to attract good vendors and empower the product team to iterate
+* Ways to apply modern software practices to an existing project and ways to work with your vendor to make incremental improvements
 
 ## Video Trainings
 This training is a series of 5 videos. We **highly recommend that you watch all 5 videos in order** as they all build on each other and the topics all relate to one another.   
@@ -17,28 +17,29 @@ This training is a series of 5 videos. We **highly recommend that you watch all 
 Following these videos, we will be hosting a live Q&A session to further explore these topics and how they apply to your work. 
 
 <!--- Intro to agile management description -->
-### [1. <ins>Introduction and agile management (40 mins)</ins> ![video icon](/assets/18f-video-icon.svg)](https://gsa.zoomgov.com/rec/share/xIpIHh-zKtIOXPLYgknxK-BDUVuPKbufppkz9bc6T9ZWJvyRwR5t5rQVrXwroLoz.KnL-7zBgUgGhMc7F?startTime=1660748950000){:target="_blank" rel="noopener"} 
-![slides icon](/assets/presentation-icon.svg) Slides[(PDF)](https://github.com/18F/derisking-workshop/raw/main/presentations/Agile%20Acquisitions.pdf){:target="_blank" rel="noopener"} [(Accessble HTML)](https://raw.githubusercontent.com/18F/derisking-workshop/main/presentations/Agile%20Acquisitions.mhtml){:target="_blank" rel="noopener"}
+### [1. <ins>Introduction and agile management (40 mins)</ins> ![video icon](/assets/18f-video-icon.svg)](https://gsa.zoomgov.com/rec/share/xIpIHh-zKtIOXPLYgknxK-BDUVuPKbufppkz9bc6T9ZWJvyRwR5t5rQVrXwroLoz.KnL-7zBgUgGhMc7F?startTime=1660748950000)
+![slides icon](/assets/presentation-icon.svg) Slides[(PDF)](https://github.com/18F/derisking-workshop/raw/main/presentations/Agile%20Acquisitions.pdf) [(Accessble HTML)](https://raw.githubusercontent.com/18F/derisking-workshop/main/presentations/Agile%20Acquisitions.mhtml)
 
 **This video covers:**  
 * Bad news/ Good news
-  **: Managing software projects is hard, but leading a team using agile methods can help you succeed.
-* Opportunities**: No matter what part of the project lifecycle you are in, you can start applying agile methodologies.
+  * Managing software projects is hard, but leading a team using agile methods can help you succeed.
+* Opportunities
+  * No matter what part of the project lifecycle you are in, you can start applying agile methodologies.
 * What to prioritize**: Suggestions on next steps to evolve your product or program.
 * Am I Doing it "right"
-  **: Signs to gauge if you are on the right track. For bad signs, I will give some suggestions to address the causes.
+  *: Signs to gauge if you are on the right track. For bad signs, I will give some suggestions to address the causes.
 
 
 <!--- Product ownership description -->
-### [2. <ins>Product ownership (35 mins)</ins> ![video icon](/assets/18f-video-icon.svg)](https://gsa.zoomgov.com/rec/share/nmsNEsFCGKXN7zDK-gi3b37pNDLDoHKP3w2QusTUf7_h-NMrrJ4Vxg-ND6-SiFLX.pfaFoABYat_m6Y7m?startTime=1660753906000%20Passcode:%201*rbc!%H){:target="_blank" rel="noopener"} 
-![slides icon](/assets/presentation-icon.svg) Slides[(PDF)](https://github.com/18F/derisking-workshop/blob/main/presentations/Product%20Ownership.pdf){:target="_blank" rel="noopener"} [(Accessible HTML)](#)
+### [2. <ins>Product ownership (35 mins)</ins> ![video icon](/assets/18f-video-icon.svg)](https://gsa.zoomgov.com/rec/share/nmsNEsFCGKXN7zDK-gi3b37pNDLDoHKP3w2QusTUf7_h-NMrrJ4Vxg-ND6-SiFLX.pfaFoABYat_m6Y7m?startTime=1660753906000%20Passcode:%201*rbc!%H)  
+![slides icon](/assets/presentation-icon.svg) Slides[(PDF)](https://github.com/18F/derisking-workshop/blob/main/presentations/Product%20Ownership.pdf)  [(Accessible HTML)](#)
 
 DESCRIPTION
 
 
 <!--- User-centered design description -->
-### [3. <ins>User-centered design (32 mins)</ins> ![video icon](/assets/18f-video-icon.svg)](https://gsa.zoomgov.com/rec/play/GyndvuBUErbVEYJDSdJCkaLtRRSuzc0oN2rWhxBCF1XU4bTPwQB7Tb6-NKpunUD065KrphOZtxBmE3iO.QaLOfH9OlE966nXi?autoplay=true&startTime=1660849308000){:target="_blank" rel="noopener"}  
-![slides icon](/assets/presentation-icon.svg) Slides[(PDF)](https://github.com/18F/derisking-workshop/blob/main/presentations/User-Centered%20Design%20-%20Training%20Slides.pdf){:target="_blank" rel="noopener"} [(Accessible HTML)](#)
+### [3. <ins>User-centered design (32 mins)</ins> ![video icon](/assets/18f-video-icon.svg)](https://gsa.zoomgov.com/rec/play/GyndvuBUErbVEYJDSdJCkaLtRRSuzc0oN2rWhxBCF1XU4bTPwQB7Tb6-NKpunUD065KrphOZtxBmE3iO.QaLOfH9OlE966nXi?autoplay=true&startTime=1660849308000)
+![slides icon](/assets/presentation-icon.svg) Slides[(PDF)](https://github.com/18F/derisking-workshop/blob/main/presentations/User-Centered%20Design%20-%20Training%20Slides.pdf) [(Accessible HTML)](#)
 
 In this short video you will learn what user-centered design is, what to consider and why it’s vital when building & buying software. 
 
@@ -50,8 +51,8 @@ In this short video you will learn what user-centered design is, what to conside
 
 
 <!--- Software development practices description -->
-### [4. <ins>Software development practices  (42 mins)</ins> ![video icon](/assets/18f-video-icon.svg)](https://gsa.zoomgov.com/rec/share/nmsNEsFCGKXN7zDK-gi3b37pNDLDoHKP3w2QusTUf7_h-NMrrJ4Vxg-ND6-SiFLX.pfaFoABYat_m6Y7m?startTime=1660760959000%20Passcode:%201*rbc!%H){:target="_blank" rel="noopener"}  
-![slides icon](/assets/presentation-icon.svg) Slides[(PDF)](https://github.com/18F/derisking-workshop/blob/main/presentations/Software%20development%20practices.pdf){:target="_blank" rel="noopener"} [(Accessible HTML)](#)
+### [4. <ins>Software development practices  (42 mins)</ins> ![video icon](/assets/18f-video-icon.svg)](https://gsa.zoomgov.com/rec/share/nmsNEsFCGKXN7zDK-gi3b37pNDLDoHKP3w2QusTUf7_h-NMrrJ4Vxg-ND6-SiFLX.pfaFoABYat_m6Y7m?startTime=1660760959000%20Passcode:%201*rbc!%H)  
+![slides icon](/assets/presentation-icon.svg) Slides[(PDF)](https://github.com/18F/derisking-workshop/blob/main/presentations/Software%20development%20practices.pdf)  [(Accessible HTML)](#)
  
 **This video covers:**
 * A look at classic software development practices
@@ -64,7 +65,7 @@ In this short video you will learn what user-centered design is, what to conside
 
 
 <!--- Agile contracting description -->
-### [5. <ins>Agile contracting (35 mins)</ins> ![video icon](/assets/18f-video-icon.svg)](https://gsa.zoomgov.com/rec/play/GI54NTrqTV_Myfs0_9XJzrcHIMyqlgTVq5aLs83BCJn1WJdf2trBZ0AIQVFI_wJ5zN9m7NwBkbMy6Dl7.lVbx91etRqNw11Wm?startTime=1660757878000){:target="_blank" rel="noopener"} 
+### [5. <ins>Agile contracting (35 mins)</ins> ![video icon](/assets/18f-video-icon.svg)](https://gsa.zoomgov.com/rec/play/GI54NTrqTV_Myfs0_9XJzrcHIMyqlgTVq5aLs83BCJn1WJdf2trBZ0AIQVFI_wJ5zN9m7NwBkbMy6Dl7.lVbx91etRqNw11Wm?startTime=1660757878000)  
 ![slides icon](/assets/presentation-icon.svg) Slides[(PDF)](#) [(Accessible HTML)](#)
 
 
