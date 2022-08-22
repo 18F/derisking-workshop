@@ -70,13 +70,13 @@ In this short video you will learn what user-centered design is, what to conside
 
 ## Resources
 Here are are some other recommended resources for this training:
-- [18F Derisking Guide](https://derisking-guide.18f.gov/){:target="_blank" rel="noopener"} 
-- [18F Product Guide](https://product-guide.18f.gov/){:target="_blank" rel="noopener"} 
-- [18F Methods](https://methods.18f.gov/){:target="_blank" rel="noopener"} 
+- [18F Derisking Guide](https://derisking-guide.18f.gov/)  
+- [18F Product Guide](https://product-guide.18f.gov/)  
+- [18F Methods](https://methods.18f.gov/)  
 
 ## Accessibility
 - The videos have a live transcript that can be viewed on the right side.  The video may include some incorrect closed captioning.  Please use the **CC** button in the video to switch to Audio Transcript. 
 - The presentations are available in an accessible HTML format that includes the presenter notes.  To view this, please go to the link for each presentation, then right click and save the page to your computer.  You can then open the downloaded by double-clicking the file and it should open in you default web browser. 
 
 ## Feedback
-18F is always looking to improve our trainings and we would love any feedback you have.  For feedback, please [submit this short form](https://docs.google.com/forms/d/e/1FAIpQLSfXYpswk27UQ9qjyg0zmuQRMXdR3Imlfen7Ttnzha0rsASt8A/viewform?usp=sf_link){:target="_blank" rel="noopener"} .  For any questions on the training program, please contact the Office of Childcare (OCC) at occ@acf.hhs.gov.  
+18F is always looking to improve our trainings and we would love any feedback you have.  For feedback, please [submit this short form](https://docs.google.com/forms/d/e/1FAIpQLSfXYpswk27UQ9qjyg0zmuQRMXdR3Imlfen7Ttnzha0rsASt8A/viewform?usp=sf_link).  For any questions on the training program, please contact the Office of Childcare (OCC) at occ@acf.hhs.gov.  
