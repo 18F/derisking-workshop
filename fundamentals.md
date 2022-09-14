@@ -17,7 +17,7 @@ This training is a series of 5 videos. We **highly recommend that you watch all 
 Following these videos, we will be hosting a live Q&A session to further explore these topics and how they apply to your work. 
 
 <!--- Intro to agile management description -->
-### [1. <ins>Introduction and agile management (40 mins)</ins> ![video icon](/assets/18f-video-icon.svg)](https://gsa.zoomgov.com/rec/share/xIpIHh-zKtIOXPLYgknxK-BDUVuPKbufppkz9bc6T9ZWJvyRwR5t5rQVrXwroLoz.KnL-7zBgUgGhMc7F?startTime=1660748950000)
+### [1. <ins>Introduction and agile management (40 mins)</ins> ![video icon](/assets/18f-video-icon.svg)](https://github.com/18F/derisking-workshop/releases/download/2022-09-14/Agile.management.mp4)  
 ![slides icon](/assets/presentation-icon.svg) PDF slides for introduction and agile management[(PDF)](https://github.com/18F/derisking-workshop/raw/main/presentations/Agile%20Acquisitions.pdf) [(Accessible HTML)](https://raw.githubusercontent.com/18F/derisking-workshop/main/presentations/Agile%20Acquisitions.mhtml)
 
 **This video covers:**  
@@ -31,14 +31,14 @@ Following these videos, we will be hosting a live Q&A session to further explore
 
 
 <!--- Product ownership description -->
-### [2. <ins>Product ownership (35 mins)</ins> ![video icon](/assets/18f-video-icon.svg)](https://gsa.zoomgov.com/rec/share/nmsNEsFCGKXN7zDK-gi3b37pNDLDoHKP3w2QusTUf7_h-NMrrJ4Vxg-ND6-SiFLX.pfaFoABYat_m6Y7m?startTime=1660753906000%20Passcode:%201*rbc!%H)  
+### [2. <ins>Product ownership (35 mins)</ins> ![video icon](/assets/18f-video-icon.svg)](https://github.com/18F/derisking-workshop/releases/download/2022-09-14/Product.ownership.mp4)  
 ![slides icon](/assets/presentation-icon.svg) Slides for product ownership[(PDF)](https://github.com/18F/derisking-workshop/blob/main/presentations/Product%20Ownership.pdf)  [(Accessible HTML)](#)
 
 DESCRIPTION
 
 
 <!--- User-centered design description -->
-### [3. <ins>User-centered design (32 mins)</ins> ![video icon](/assets/18f-video-icon.svg)](https://gsa.zoomgov.com/rec/play/GyndvuBUErbVEYJDSdJCkaLtRRSuzc0oN2rWhxBCF1XU4bTPwQB7Tb6-NKpunUD065KrphOZtxBmE3iO.QaLOfH9OlE966nXi?autoplay=true&startTime=1660849308000)
+### [3. <ins>User-centered design (32 mins)</ins> ![video icon](/assets/18f-video-icon.svg)](https://github.com/18F/derisking-workshop/releases/download/2022-09-14/User-centered.design.mp4)  
 ![slides icon](/assets/presentation-icon.svg) Slides for user-centered design[(PDF)](https://github.com/18F/derisking-workshop/blob/main/presentations/User-Centered%20Design%20-%20Training%20Slides.pdf) [(Accessible HTML)](#)
 
 In this short video you will learn what user-centered design is, what to consider and why it’s vital when building & buying software. 
@@ -51,7 +51,7 @@ In this short video you will learn what user-centered design is, what to conside
 
 
 <!--- Software development practices description -->
-### [4. <ins>Software development practices  (42 mins)</ins> ![video icon](/assets/18f-video-icon.svg)](https://gsa.zoomgov.com/rec/share/nmsNEsFCGKXN7zDK-gi3b37pNDLDoHKP3w2QusTUf7_h-NMrrJ4Vxg-ND6-SiFLX.pfaFoABYat_m6Y7m?startTime=1660760959000%20Passcode:%201*rbc!%H)  
+### [4. <ins>Software development practices  (42 mins)</ins> ![video icon](/assets/18f-video-icon.svg)](https://github.com/18F/derisking-workshop/releases/download/2022-09-14/Software.development.practices.mp4)  
 ![slides icon](/assets/presentation-icon.svg) Slides for software development practice[(PDF)](https://github.com/18F/derisking-workshop/blob/main/presentations/Software%20development%20practices.pdf)  [(Accessible HTML)](#)
  
 **This video covers:**
@@ -65,7 +65,7 @@ In this short video you will learn what user-centered design is, what to conside
 
 
 <!--- Agile contracting description -->
-### [5. <ins>Agile contracting (35 mins)</ins> ![video icon](/assets/18f-video-icon.svg)](https://gsa.zoomgov.com/rec/play/GI54NTrqTV_Myfs0_9XJzrcHIMyqlgTVq5aLs83BCJn1WJdf2trBZ0AIQVFI_wJ5zN9m7NwBkbMy6Dl7.lVbx91etRqNw11Wm?startTime=1660757878000)  
+### [5. <ins>Agile contracting (35 mins)</ins> ![video icon](/assets/18f-video-icon.svg)](https://github.com/18F/derisking-workshop/releases/download/2022-09-14/Agile.contracting.mp4)  
 ![slides icon](/assets/presentation-icon.svg) Slides for agile contracting[(PDF)](#) [(Accessible HTML)](#)
 
 
