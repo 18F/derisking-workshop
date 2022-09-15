@@ -70,7 +70,7 @@ This video covers:
 * Keys to adopting modern software development practices
 
 ### 5. Agile contracting
-- Watch the [Agile contracting video (35 mins)](https://github.com/18F/derisking-workshop/releases/download/2022-09-14/Agile.contracting.mp4)
+- Watch the [Agile contracting video (35 mins)](https://github.com/18F/derisking-workshop/releases/download/2022-09-14/Agile.contracting.mp4) \[[transcript](https://github.com/18F/derisking-workshop/releases/download/2022-09-14/Agile.contracting.txt)\]
 - Slides for reference
   - [Agile contracting (PDF download)](https://github.com/18F/derisking-workshop/raw/main/presentations/Agile%20Acquisitions.pdf)
   - [Agile contracting slides (HTML zip download)]([https://github.com/18F/derisking-workshop/raw/main/presentations/Product%20Ownership.mhtml.zip](https://github.com/18F/derisking-workshop/raw/main/presentations/Agile%20Acquisitions.mhtml.zip)) (These are the same slides optimized for screen readers and assistive tools) 
