@@ -12,7 +12,7 @@ At the end of this training, you will:
 * Know how to bring modern software practices to an existing project and how to work with your vendor to make incremental improvements
 
 ## Accessibility
-- The videos have a live transcript that can be viewed on the right side. The video may include some incorrect closed captioning. Please use the CC button in the video to switch to Audio Transcript. 
+- The videos have an embedded subtitles.  Please use the subtitles or captions function in your video player to these.  
 - The presentations are available in an accessible HTML format that includes the presenter notes. To view this, please use the HTML link to download a zip file of the presentation and then unzip and open the HTML file.
 
 ## Video Trainings
