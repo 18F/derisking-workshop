@@ -21,7 +21,7 @@ This training is a series of 5 videos. We **highly recommend that you watch all 
 We will be hosting a live Q&A session to further explore these topics and how they apply to your work.
 
 ### 1. Introduction and agile management
-- Watch the [Agile management Video (40 mins)](https://github.com/18F/derisking-workshop/releases/download/2022-09-14/Agile.management.mp4)
+- Watch the [Agile management Video (40 mins)](https://github.com/18F/derisking-workshop/releases/download/2022-09-14/Agile.management.mp4) \[[transcript](https://github.com/18F/derisking-workshop/releases/download/2022-09-14/Agile.management.txt)\]
 - Slides for reference
   - [Agile management slides (PDF download)](https://github.com/18F/derisking-workshop/raw/main/presentations/Agile%20management.pdf)
   - [Agile management slides (HTML zip download)](https://github.com/18F/derisking-workshop/raw/main/presentations/Agile%20management.mhtml.zip) (These are the same slides optimized for screen readers and assistive tools) 
@@ -33,7 +33,7 @@ This video covers:
 * Am I doing it "right": Signs to gauge if you are on the right track. I will also give you examples of bad signs, and suggest how you might address the causes.
 
 ### 2. Product ownership
-- Watch the [Product ownership video (35 mins)](https://github.com/18F/derisking-workshop/releases/download/2022-09-14/Product.ownership.mp4)
+- Watch the [Product ownership video (35 mins)](https://github.com/18F/derisking-workshop/releases/download/2022-09-14/Product.ownership.mp4) \[[transcript](https://github.com/18F/derisking-workshop/releases/download/2022-09-14/Product.ownership.txt)\]
 - Slides for reference
   - [Product ownership (PDF download)](https://github.com/18F/derisking-workshop/raw/main/presentations/Product%20Ownership.pdf)
   - [Product ownership slides (HTML zip download)](https://github.com/18F/derisking-workshop/raw/main/presentations/Product%20Ownership.mhtml.zip) (These are the same slides optimized for screen readers and assistive tools) 
@@ -44,7 +44,7 @@ This video covers:
 * How to apply product ownership practices to an existing project
 
 ### 3. User-centered design
-- Watch the [User-centered design video (28 mins)](https://github.com/18F/derisking-workshop/releases/download/2022-09-14/User-centered.design.mp4)
+- Watch the [User-centered design video (28 mins)](https://github.com/18F/derisking-workshop/releases/download/2022-09-14/User-centered.design.mp4) \[[transcript](https://github.com/18F/derisking-workshop/releases/download/2022-09-14/User-centered.design.txt)\]
 - Slides for reference
   - [User-centered design (PDF download)](https://github.com/18F/derisking-workshop/raw/main/presentations/User-Centered%20Design%20-%20Training%20Slides.pdf)
   - [User-centered design slides (HTML zip download)](https://github.com/18F/derisking-workshop/raw/main/presentations/User-Centered%20Design%20-%20Training%20Slides.mht.zip) (These are the same slides optimized for screen readers and assistive tools) 
@@ -56,7 +56,7 @@ This video covers:
 * What to look for when creating or working with new teams
 
 ### 4. Software development practices
-- Watch the [Software development practices video (42 mins)](https://github.com/18F/derisking-workshop/releases/download/2022-09-14/Software.development.practices.mp4)
+- Watch the [Software development practices video (42 mins)](https://github.com/18F/derisking-workshop/releases/download/2022-09-14/Software.development.practices.mp4) \[[transcript](https://github.com/18F/derisking-workshop/releases/download/2022-09-14/Software.development.practices.txt)\]
 - Slides for reference
   - [Software development practices (PDF download)](https://github.com/18F/derisking-workshop/raw/main/presentations/Software%20development%20practices.pdf)
   - [Software development practices slides (HTML zip download)](https://github.com/18F/derisking-workshop/raw/main/presentations/Software%20development%20practices.mhtml.zip) (These are the same slides optimized for screen readers and assistive tools) 
